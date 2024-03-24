@@ -1,0 +1,25 @@
+﻿  Window.cpp
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(289,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(290,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(294,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(295,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(297,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(298,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  practica5.cpp
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica5.cpp")
+  
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica5.cpp")
+  
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\practica5.cpp(191,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\practica5.cpp(193,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código...
+C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Practica05\Window.cpp(88): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  Practica05.vcxproj -> C:\Users\jared\OneDrive\Documentos\Visual Studio 2022\CGIH\Practica05\Debug\Practica05.exe
